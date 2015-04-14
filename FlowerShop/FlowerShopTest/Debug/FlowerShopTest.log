@@ -1,0 +1,59 @@
+﻿Построение начато 14.04.2015 23:07:47.
+     1>Проект "D:\ПроэктыVS\Shop\FlowerShop\FlowerShopTest\FlowerShopTest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Windows Kits\8.0\Include\shared\um" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\FlowerShopTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Windows Kits\8.0\Include\shared\um" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FlowerShopTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Category.cpp FlowerShopTest.cpp Shop.cpp InputOutputInfoConsole.cpp
+         InputOutputInfoConsole.cpp
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(201): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(328): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(410): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(624): warning C4018: >: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(699): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(765): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(848): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(899): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(902): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(921): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(924): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(1034): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(1038): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(975): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(982): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(1179): warning C4172: возвращение адреса локальной или временной переменной
+         Shop.cpp
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(83): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(86): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(90): warning C4101: er: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(141): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(211): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(218): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(233): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(240): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(198): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(291): warning C4101: a: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(308): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(334): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(358): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\shop.cpp(385): warning C4018: <: несоответствие типов со знаком и без знака
+         FlowerShopTest.cpp
+         Category.cpp
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\category.cpp(56): warning C4101: a: неиспользованная локальная переменная
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\category.cpp(97): warning C4101: ba: неиспользованная локальная переменная
+         Создание кода...
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(380): warning C4715: InputOutputInfoConsole::Menu1: значение возвращается не при всех путях выполнения
+     1>d:\проэктыvs\shop\flowershop\flowershoptest\inputoutputinfoconsole.cpp(582): warning C4715: InputOutputInfoConsole::Menu2: значение возвращается не при всех путях выполнения
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ПроэктыVS\Shop\FlowerShop\Debug\FlowerShopTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ПроэктыVS\Shop\FlowerShop\Debug\FlowerShopTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ПроэктыVS\Shop\FlowerShop\Debug\FlowerShopTest.lib" /MACHINE:X86 Debug\Category.obj
+         Debug\FlowerShopTest.obj
+         Debug\Shop.obj
+         Debug\stdafx.obj
+         Debug\InputOutputInfoConsole.obj
+         FlowerShopTest.vcxproj -> D:\ПроэктыVS\Shop\FlowerShop\Debug\FlowerShopTest.exe
+     1>Построение проекта "D:\ПроэктыVS\Shop\FlowerShop\FlowerShopTest\FlowerShopTest.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:08.11

@@ -1,0 +1,29 @@
+﻿Построение начато 08.04.2015 20:26:32.
+     1>Проект "D:\ПроэктыVS\AliveDLL\AliveDLL\AliveDLL.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Windows Kits\8.0\Include\shared\um" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D ALIVEDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\AliveDLL.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AliveDLL.cpp
+         AliveDLL.cpp
+     1>d:\проэктыvs\alivedll\alivedll\baseoutput.h(1): warning C4091: extern : пропускается слева от "Product", когда ни одна переменная не объявлена
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(35): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(48): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(61): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(74): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(87): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(107): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(120): warning C4018: >: несоответствие типов со знаком и без знака
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(264): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(1029): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(1038): warning C4101: err: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(1075): warning C4101: ba: неиспользованная локальная переменная
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(390): warning C4715: AliveOutput::Sort: значение возвращается не при всех путях выполнения
+     1>d:\проэктыvs\alivedll\alivedll\alivedll.cpp(1042): warning C4715: AliveLoad::CreateProduct: значение возвращается не при всех путях выполнения
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ПроэктыVS\AliveDLL\Debug\AliveDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ПроэктыVS\AliveDLL\Debug\AliveDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ПроэктыVS\AliveDLL\Debug\AliveDLL.lib" /MACHINE:X86 /DLL Debug\AliveDLL.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+         AliveDLL.vcxproj -> D:\ПроэктыVS\AliveDLL\Debug\AliveDLL.dll
+     1>Построение проекта "D:\ПроэктыVS\AliveDLL\AliveDLL\AliveDLL.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.44
